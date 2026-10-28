@@ -1,6 +1,6 @@
 #!name = 修仙小游戏
 #!desc = tg.zifumh.cn 自动签到/俸禄/雇人挖矿/领收成/闭关续挂机。每天打开一次小程序自动更新登录态，任务到点自动执行并推送结果。双修 op 待抓包后开启。
-#!author = 你的昵称
+#!author = AI
 #!homepage = https://github.com/skinghaw/loon
 #!loon_version = 3.5.1(983)
 #!date = 2026-10-28
